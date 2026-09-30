@@ -2,7 +2,7 @@
 
 Add your demo video file or link here.
 
-**Demo video link:** _(paste your link here)_
+**Demo video link:** _(https://drive.google.com/file/d/1LSEUC_hnL2xuuTsnbzlprGG3VuTRZwRL/view?usp=drivesdk)_
 
 ## Suggested demo flow
 
